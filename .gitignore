@@ -1,0 +1,12 @@
+data/raw/
+data/clean/
+data/*.db
+data/_eval_verdicts/
+!data/marts/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+.DS_Store
