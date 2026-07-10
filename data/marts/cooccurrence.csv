@@ -1,0 +1,51 @@
+skill_a,skill_b,pair_count
+React,TypeScript,1203
+Python,TypeScript,825
+Python,React,754
+JavaScript,TypeScript,701
+PostgreSQL,React,687
+PostgreSQL,TypeScript,682
+JavaScript,React,649
+AWS,TypeScript,597
+AWS,Python,572
+AWS,React,572
+PostgreSQL,Python,527
+Machine Learning,Python,518
+JavaScript,Node.js,495
+Node.js,TypeScript,495
+AWS,PostgreSQL,487
+Node.js,React,483
+JavaScript,Python,453
+JavaScript,PostgreSQL,406
+JavaScript,Next.js,382
+AWS,JavaScript,351
+Next.js,React,346
+Kubernetes,Python,337
+Go,Python,330
+Next.js,TypeScript,325
+Go,TypeScript,316
+Kubernetes,TypeScript,308
+AWS,Terraform,296
+AWS,Kubernetes,293
+Machine Learning,TypeScript,289
+Kubernetes,React,284
+Go,React,272
+Python,Rust,264
+Machine Learning,React,261
+AWS,Node.js,258
+Node.js,PostgreSQL,256
+Rust,TypeScript,254
+LLM,Python,244
+LLM,TypeScript,243
+Rails,Ruby,239
+React,React Native,233
+Node.js,Python,231
+Python,Terraform,230
+Kubernetes,PostgreSQL,227
+GCP,Python,226
+AWS,Machine Learning,218
+AWS,Docker,216
+LLM,React,216
+GCP,TypeScript,215
+Go,PostgreSQL,215
+Kubernetes,Terraform,215

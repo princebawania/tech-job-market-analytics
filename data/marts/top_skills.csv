@@ -1,0 +1,64 @@
+skill_name,skill_category,n_postings
+TypeScript,language,1905
+Python,language,1890
+React,frontend,1889
+PostgreSQL,data,1252
+AWS,cloud,1201
+JavaScript,language,1180
+Machine Learning,ml,1163
+Go,language,1013
+Node.js,backend,721
+Kubernetes,cloud,708
+Rust,language,617
+LLM,ml,611
+Next.js,frontend,464
+GCP,cloud,438
+Terraform,cloud,417
+Docker,cloud,403
+Computer Vision,ml,344
+C++,language,338
+Rails,backend,319
+Linux,cloud,303
+Java,language,295
+SQL,data,291
+Ruby,language,287
+iOS,mobile,254
+Android,mobile,240
+CI/CD,cloud,234
+Redis,data,234
+GraphQL,backend,233
+React Native,mobile,233
+Django,backend,219
+FastAPI,backend,195
+Vue,frontend,195
+Azure,cloud,189
+PyTorch,ml,166
+C#,language,160
+MongoDB,data,145
+Kotlin,language,144
+MySQL,data,135
+Tailwind,frontend,132
+Kafka,data,120
+Swift,language,105
+Snowflake,data,103
+PHP,language,85
+Elasticsearch,data,83
+Spark,data,79
+Deep Learning,ml,70
+dbt,data,70
+NLP,ml,67
+Airflow,data,62
+Flutter,mobile,61
+Scala,language,56
+Angular,frontend,50
+Spring,backend,48
+Excel,bi,47
+Flask,backend,46
+TensorFlow,ml,43
+Svelte,frontend,41
+Pandas,data,24
+scikit-learn,ml,23
+Tableau,bi,17
+Looker,bi,12
+Power BI,bi,2
+R,language,1

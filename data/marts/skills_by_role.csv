@@ -1,0 +1,25 @@
+role_family,skill_name,n,rk
+Analyst,SQL,26,1
+Analyst,React,26,1
+Analyst,TypeScript,22,3
+Analyst,Python,17,4
+Analyst,Node.js,14,5
+Analyst,JavaScript,9,6
+Analyst,PostgreSQL,8,7
+Analyst,AWS,8,7
+Data-ML,Machine Learning,733,1
+Data-ML,Python,484,2
+Data-ML,TypeScript,277,3
+Data-ML,React,242,4
+Data-ML,LLM,220,5
+Data-ML,AWS,213,6
+Data-ML,PostgreSQL,178,7
+Data-ML,JavaScript,138,8
+SDE,React,1339,1
+SDE,TypeScript,1300,2
+SDE,Python,1087,3
+SDE,PostgreSQL,876,4
+SDE,JavaScript,853,5
+SDE,AWS,822,6
+SDE,Go,678,7
+SDE,Node.js,521,8

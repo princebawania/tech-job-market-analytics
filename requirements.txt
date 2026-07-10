@@ -1,0 +1,4 @@
+pandas
+scikit-learn
+statsmodels
+psycopg2-binary   # only needed if you use --postgres
