@@ -1,6 +1,7 @@
-pandas
-scikit-learn
-statsmodels
-streamlit
-plotly
-psycopg2-binary   # only needed if you use --postgres
+streamlit==1.40.1
+pandas==2.2.3
+numpy==1.26.4
+plotly==5.24.1
+scikit-learn==1.5.2
+statsmodels==0.14.4
+psycopg2-binary==2.9.9
